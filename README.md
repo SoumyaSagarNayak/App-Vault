@@ -28,12 +28,6 @@ I love experimenting with new technologies, and Bolt AI caught my attention inst
 
 ---
 
-## 📸 Screenshots / Demo
-
-*(Optional – you can add screenshots or a video walkthrough here)*
-
----
-
 ## 🔗 Live Links
 
 - 🚀 Built with Bolt AI: [https://bolt.new](https://bolt.new)  
