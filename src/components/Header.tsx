@@ -73,17 +73,6 @@ const Header: React.FC = () => {
           {/* Right Section */}
           <div className="flex items-center space-x-4">
             {/* Feature Badge */}
-            <div className="hidden lg:flex items-center space-x-2 bg-gradient-to-r from-yellow-400 to-orange-500 text-white px-3 py-1 rounded-full text-xs font-medium">
-              <span>⭐ Star on GitHub</span>
-              <a
-                href="https://github.com/SoumyaSagarNayak"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="hover:underline"
-              >
-                @SoumyaSagarNayak
-              </a>
-            </div>
             
             {/* Feedback Button */}
             <a
